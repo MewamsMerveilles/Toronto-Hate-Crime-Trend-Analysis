@@ -33,5 +33,39 @@ Time Trend
 Hate crime incidents show a clear upward trajectory over time. Annual cases increase steadily from earlier years, reaching a peak of 440 incidents in 2024.
 While there is a minor dip around 2022, the overall pattern remains strongly upward, with the most significant increases occurring in the last two years.
 
+<img width="1599" height="580" alt="Trend over the year" src="https://github.com/user-attachments/assets/b4548703-16a4-43f8-9d24-4d747e62ffc5" />
+
+
+
+Location Type Distribution
+
+
+Incidents are most frequently reported in street locations (403 cases), making it the dominant category.
+Other location types contribute smaller shares, indicating that hate crimes are more commonly recorded in public-facing environments.
+<img width="348" height="292" alt="image" src="https://github.com/user-attachments/assets/c42113b4-d465-4ab2-9eab-e46ee18f82b1" />
+
+
+
+Monthly Patterns
+
+
+Incident counts fluctuate throughout the year, with a noticeable peak in June.
+Higher-than-average activity is also observed in May, September, and October, while January and December show comparatively lower volumes.
+<img width="700" height="295" alt="image" src="https://github.com/user-attachments/assets/e4dfe527-d8be-4e8c-90ee-cab541781f44" />
+
+
+Neighbourhood Distribution
+
+
+Hate crimes are concentrated in a small number of neighborhoods. The highest counts are observed in Yonge–Bay Corridor (70 incidents) , Downtown Yonge East (52 incidents)  and 3 others, while the rest fall below the average, indicating a skewed geographic distribution.
+<img width="786" height="164" alt="image" src="https://github.com/user-attachments/assets/fd93bae7-dfb8-4459-b5a9-5554d07afc79" />
+
+
+Offence Type vs Arrest Outcomes
+
+
+Arrest outcomes vary across offence types. Assault offence show relatively higher arrest counts, while Mischief under $5,000 has a high number of incidents but comparatively fewer arrests 
+This highlights the small arrest rate.
+<img width="789" height="281" alt="image" src="https://github.com/user-attachments/assets/725ccb8a-a744-42ac-971b-0b12d14eb925" />
 
 
