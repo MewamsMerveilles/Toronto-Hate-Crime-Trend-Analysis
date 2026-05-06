@@ -129,4 +129,10 @@ Strategies may include:
 •	Early intervention initiatives
 
 
+CONCLUSION
+
+This project highlights a consistent rise in hate crime incidents in Toronto, along with clear patterns across time, location, and environment. The findings emphasize the importance of data-driven approaches in identifying high-risk areas and improving prevention strategies.
+
+<img width="1873" height="801" alt="Dashboard Hate crime trends" src="https://github.com/user-attachments/assets/66e59702-9309-4055-8438-9933fa4dfe6d" />
+
 
