@@ -1,3 +1,5 @@
+
+
 Introduction (Dataset Overview)
 
 This project uses the Toronto Police Service Hate Crime Open Data dataset, published by the Toronto Police Service. The dataset contains records of hate crime incidents reported and confirmed by the police between 2014 and 2024 in Toronto. 
@@ -26,9 +28,11 @@ The analysis focuses on identifying patterns and trends in hate crime incidents 
 5.	What types of offences are most likely to result in arrests?
 These questions guide the analysis, including incident counts over time, seasonal trends, geographic distribution, location types, and arrest rates by offence category.
 
+HATE CRIME(2014-2024) TRENDS OVERVIEW
 
+View Interactive Dashboard :  https://public.tableau.com/authoring/TorontoHateCrimeTrendAnalysis/Dashboard#1 
 
-ANALYSIS: HATE CRIME TRENDS(2014-2024)
+ANALYSIS
 
 Time Trend
 
